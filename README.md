@@ -5,3 +5,5 @@
 💻 Além de programadora apaixonada por tecnologia e criatividade, gosto muito de HTML e CSS!
 <br>
 📚 Atualmente estou aprendendo C#...
+
+https://github-readme-stats.vercel.app/api?username=AnaProgramando
