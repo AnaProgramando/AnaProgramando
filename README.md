@@ -11,7 +11,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 - 💻 Sou programadora apaixonada por tecnologia, criatividade e Web design!
 - 👨‍💻 Analista de Engenharia de Software Jr.
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação, 7° semestre.
-- 🌱 Técnica em Infomtica para Internet
+- 🌱 Técnica em Infomática para Internet
 - 🎮 Apaixonada por God of War e Shadow of the Colossus!
 
 # Skills 📚
