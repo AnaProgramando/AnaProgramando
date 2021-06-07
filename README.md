@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou Ana! 👩‍💻
 Seja muito bem vinda(o) ao meu Perfil! 😉
 
-- 👩‍💻 Meu nome é <a href="https://github.com/AnaProgramando">Ana</a> !
+- 👩‍💻 Meu nome é <a href="https://github.com/AnaProgramando">Ana</a>
 - 👩‍🎓 Sou estudante de Bacharelado em Sistemas de Informação e Técnica em Informática para Internet.
 - 💻 Programadora apaixonada por tecnologia, criatividade e Web design!
 
@@ -19,8 +19,3 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-
-<br>
-<br>
-
-
