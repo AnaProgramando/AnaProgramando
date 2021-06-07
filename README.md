@@ -1,5 +1,5 @@
 ## 👋 Olá, seja muito bem vinda(o)! 
-Meu nome é <a href="https://github.com/AnaProgramando">Ana</a> 👩‍💻
+👩‍💻 Meu nome é <a href="https://github.com/AnaProgramando">Ana</a> !
 <br>
 👩‍🎓 Sou estudante de Bacharelado em Sistemas de Informação e Técnica em Informática para Internet.
 <br>
