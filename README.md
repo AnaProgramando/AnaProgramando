@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou Ana! 👩‍💻
-## Seja muito bem vinda(o) ao meu Perfil 😉
+Seja muito bem vinda(o) ao meu Perfil! 😉
 
 <div>
   <a href="https://github.com/AnaProgramando">
