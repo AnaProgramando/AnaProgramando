@@ -1,4 +1,10 @@
-## 👋 Olá, seja muito bem vinda(o)! 
+## 👋 Olá, eu sou Ana! Seja muito bem vinda(o) ao meu Perfil 👩‍💻
+
+<div>
+  <a href="https://github.com/AnaProgramando">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
 - 👩‍💻 Meu nome é <a href="https://github.com/AnaProgramando">Ana</a> !
 - 👩‍🎓 Sou estudante de Bacharelado em Sistemas de Informação e Técnica em Informática para Internet.
@@ -15,8 +21,4 @@
 <br>
 <br>
 
-<div>
-  <a href="https://github.com/AnaProgramando">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+
