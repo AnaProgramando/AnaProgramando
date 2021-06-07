@@ -8,8 +8,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 </div>
 
 ## About_Me:
-- 👩‍💻 Meu nome é <a href="https://github.com/AnaProgramando">Ana</a>
-- 💻 Sou pogramadora apaixonada por tecnologia, criatividade e Web design!
+- 💻 Sou programadora apaixonada por tecnologia, criatividade e Web design!
 - 👨‍💻 Analista de Engenharia de Software Jr.
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação, 7° semestre.
 - 🌱 Técnica em Infomtica para Internet
