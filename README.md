@@ -9,12 +9,11 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 
 ## About_Me:
 - 👩‍💻 Meu nome é <a href="https://github.com/AnaProgramando">Ana</a>
-- 💻 Programadora apaixonada por tecnologia, criatividade e Web design!
+- 💻 Sou pogramadora apaixonada por tecnologia, criatividade e Web design!
 - 👨‍💻 Analista de Engenharia de Software Jr.
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação, 7° semestre.
-- 🌱 Técnica em Infomtica paa Internet
-- 💙 Interesse: HTML, CSS, C#, Java, javaScript, .net e ASP.net.
-- Jogos: Apaixonada por God of War e Shadow of the Colossus.![image](https://user-images.githubusercontent.com/31097110/121089014-e97d1580-c7bc-11eb-902c-f33c1c5a90bc.png)
+- 🌱 Técnica em Infomtica para Internet
+- 🎮 Apaixonada por God of War e Shadow of the Colossus!
 
 # Skills 📚
 <div style="display: inline_block"><br>
