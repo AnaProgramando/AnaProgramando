@@ -15,7 +15,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 - 🎮 Apaixonada por God of War e Shadow of the Colossus!
 
 # Skills
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Ana-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
