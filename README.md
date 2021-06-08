@@ -7,14 +7,14 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## About_Me:
+## About_Me
 - 💻 Sou programadora apaixonada por tecnologia, criatividade e Web design!
 - 👨‍💻 Analista de Engenharia de Software Jr.
-- 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação, 7° semestre.
+- 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação
 - 🌱 Técnica em Infomática para Internet
 - 🎮 Apaixonada por God of War e Shadow of the Colossus!
 
-# Skills
+## Skills
 <div style="display: inline_block">
   <img align="center" alt="Ana-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +22,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img align="center" alt="Ana-Js" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-# Contato
+## Contato
 <div> 
   <a href = "mailto:anabe.valentim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
