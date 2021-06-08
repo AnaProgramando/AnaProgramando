@@ -8,12 +8,14 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 </div>
 
 ## About_Me
-- 💻 Sou programadora apaixonada por tecnologia, criatividade e Web design!
-- 👨‍💻 Analista de Engenharia de Software Jr.
-- 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação
-- 🌱 Técnica em Infomática para Internet
+- 👨‍💻 Sou programadora apaixonada por tecnologia, desenvolvimento contínuo, Web design e criatividade!
+- 👩‍💼 Analista de Engenharia de Software Jr.
+- 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação.
+- 📚 Técnica em Infomática para Internet.
+- 🤝 Estou e busca de projetos para colaborar como Front-end.
+- 💬 Pergunte-me sobre: HTML e CSS.
 - 🎮 Apaixonada por God of War e Shadow of the Colossus!
-
+  
 ## Skills
 <div style="display: inline_block">
   <img align="center" alt="Ana-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
