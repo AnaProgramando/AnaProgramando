@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Ana! 👩‍💻
+## 👋 Olá, eu sou a Ana! 👩‍💻
 Seja muito bem vinda(o) ao meu Perfil! 😉
 
 <div>
