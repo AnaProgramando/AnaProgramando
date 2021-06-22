@@ -7,6 +7,8 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 ## About_Me
 - 👨‍💻 Sou programadora apaixonada por tecnologia, desenvolvimento contínuo, Web design e criatividade!
 - 👩‍💼 Analista de Engenharia de Software Jr.
@@ -28,5 +30,3 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 <div> 
   <a href = "mailto:anabe.valentim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
