@@ -10,13 +10,13 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## About_Me
-- 👨‍💻 Sou programadora apaixonada por tecnologia, desenvolvimento contínuo, Web design e criatividade!
+- 👨‍💻 Sou programadora apaixonada por tecnologia, desenvolvimento contínuo, Web design e criatividade.
 - 👩‍💼 Analista de Engenharia de Software Jr.
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação.
 - 📚 Técnica em Informática para Internet.
 - 🤝 Estou e busca de projetos para colaborar como Front-end.
 - 💬 Pergunte-me sobre: HTML e CSS.
-- 🎮 Apaixonada por God of War e Shadow of the Colossus!
+- 🎮 Apaixonada por God of War e Shadow of the Colossus.
   
 ## Skills
 <div style="display: inline_block">
