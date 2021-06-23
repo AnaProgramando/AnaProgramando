@@ -14,7 +14,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 - 👩‍💼 Analista de Engenharia de Software Jr.
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação.
 - 📚 Técnica em Informática para Internet.
-- 🤝 Estou e busca de projetos para colaborar como Front-end.
+- 🤝 Estou em busca de projetos para colaborar como Front-end.
 - 💬 Pergunte-me sobre: HTML e CSS.
 - 🎮 Apaixonada por God of War e Shadow of the Colossus.
   
