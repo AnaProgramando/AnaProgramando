@@ -7,7 +7,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## About_Me
+## Sobre
 - 👨‍💻 Sou Programadora apaixonada por Tecnologia, Desenvolvimento Contínuo, Web Design e Criatividade.
 - 👩‍💼 Analista de Engenharia de Software Jr.
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação.
@@ -16,7 +16,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 - 💬 Pergunte-me sobre: HTML e CSS.
 - 🎮 Apaixonada por God of War e Shadow of the Colossus.
   
-## Skills
+## Conhecimentos
 <div style="display: inline_block">
   <img align="center" alt="Ana-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,9 +24,11 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img align="center" alt="Ana-Js" height="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-## Contato
-<div> 
-  <a href = "mailto:anabe.valentim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## Contatos
 
+[<img align="left" alt="Gmail" width="80px" src="https://media.giphy.com/media/YmhqSIaLh82K5lTEW5/giphy.gif"/>](mailto:anabe.valentim@gmail.com)
+[<img align="left" alt="LinkedIn" width="100px" src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
+[<img align="left" alt="Discord" width="100px" src="https://media.giphy.com/media/h6ffRNJkGl3MPMunC2/giphy.gif"/>](LINK)
+  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
