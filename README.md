@@ -1,11 +1,12 @@
 ## 👋 Olá, eu sou a Ana! 👩‍💻
 Seja muito bem vinda(o) ao meu Perfil! 😉
 
+## Sobre mim
+
 <div>
   <img align="right" alt="Menina" width="200px" src="https://media.giphy.com/media/eK1mmw4Etx28KZRq5h/giphy.gif"/>
 </div>
 
-## Sobre mim
 - 👨‍💻 Sou Programadora apaixonada por Tecnologia, Desenvolvimento Contínuo, Web Design e Criatividade.
 - 👩‍💼 Analista de Engenharia de Software Jr.
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação.
@@ -23,7 +24,9 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 </div>
 
 ## Conquistas
+
 <div>
+  <img height="140px" align="left" alt="GitHub" src="https://github.com/AnaProgramando/AnaProgramando/blob/e13be90106aaa1bc13f63331034a3a812a7bf72d/meu%20github.png"/>
   <a href="https://github.com/AnaProgramando">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=dracula"/>
