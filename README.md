@@ -27,7 +27,6 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 
 <div>
   <a href="https://github.com/AnaProgramando">
-  <img height="120px" align="left" alt="GitHub" src="https://github.com/AnaProgramando/AnaProgramando/blob/e13be90106aaa1bc13f63331034a3a812a7bf72d/meu%20github.png"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=dracula"/>
 </div>
