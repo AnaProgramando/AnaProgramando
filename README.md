@@ -30,6 +30,8 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+  
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=AnaProgramando&repo=AnaProgramando&countColorcountColor)
 
 ## Contatos
 [<img align="left" alt="Gmail" width="80px" src="https://media.giphy.com/media/YmhqSIaLh82K5lTEW5/giphy.gif"/>](mailto:anabe.valentim@gmail.com)
