@@ -34,7 +34,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 ## Contatos
 [<img align="left" alt="Gmail" width="80px" src="https://media.giphy.com/media/YmhqSIaLh82K5lTEW5/giphy.gif"/>](mailto:anabe.valentim@gmail.com)
 [<img align="left" alt="LinkedIn" width="100px" src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
-[<img align="left" alt="Discord" width="100px" src="https://media.giphy.com/media/h6ffRNJkGl3MPMunC2/giphy.gif"/>](LINK)
+[<img align="left" alt="Discord" width="100px" src="https://media.giphy.com/media/h6ffRNJkGl3MPMunC2/giphy.gif"/>](https://discord.gg/pEtZVbAF)
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
