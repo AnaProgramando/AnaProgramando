@@ -12,7 +12,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação.
 - 📚 Técnica em Informática para Internet.
 - 🤝 Estou em busca de projetos para colaborar e aprender.
-- 💬 Pergunte-me sobre: Web Design.
+- 💬 Pergunte-me sobre: Front-end.
 - 🎮 Apaixonada por God of War e Shadow of the Colossus.
   
 ## Habilidades
