@@ -35,6 +35,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 [<img align="left" alt="Gmail" width="80px" src="https://media.giphy.com/media/YmhqSIaLh82K5lTEW5/giphy.gif"/>](mailto:anabe.valentim@gmail.com)
 [<img align="left" alt="LinkedIn" width="100px" src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
 [<img align="left" alt="Discord" width="100px" src="https://media.giphy.com/media/h6ffRNJkGl3MPMunC2/giphy.gif"/>](https://discord.gg/pEtZVbAF)
+[<img align="left" alt="Beacons" width="100px" src="https://github.com/AnaProgramando/AnaProgramando/blob/9b88fb1e1bc1e1cd68954d6aa5b2312b51a92220/beacons_logo.png"/>](https://beacons.page/anaprogramando)
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
