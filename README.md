@@ -34,7 +34,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 ## Contatos
 
 [<img align="left" alt="Discord" width="200px" src="https://media.giphy.com/media/2qzDvLPSAQDjMm27km/giphy.gif"/>](https://discord.gg/pEtZVbAF)
-Entre na <Comunidade Programando> onde você poderá interagir, aprender, ensinar, compartilhar projetos, pedir ajuda para exercitar qualquer linguagem de programação, acompanhar vagas, falar sobre desenvolvimento, novidades em tecnologia e mais!
+Entre na **Comunidade Programando** onde você poderá interagir, aprender, ensinar, compartilhar projetos, pedir ajuda para exercitar qualquer linguagem de programação, acompanhar vagas, falar sobre desenvolvimento, novidades em tecnologia e mais!
   
 [<img align="left" alt="Gmail" width="80px" src="https://media.giphy.com/media/YmhqSIaLh82K5lTEW5/giphy.gif"/>](mailto:anabe.valentim@gmail.com)
 [<img align="left" alt="LinkedIn" width="100px" src="https://media.giphy.com/media/sQB6lgeTlv5Krjq7YN/giphy.gif"/>](https://www.linkedin.com/in/ana-beatriz-valentim)
