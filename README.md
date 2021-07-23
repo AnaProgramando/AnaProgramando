@@ -7,7 +7,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img align="right" alt="Menina" width="200px" src="https://media.giphy.com/media/eK1mmw4Etx28KZRq5h/giphy.gif"/>
 </div>
 
-- 👩‍💻 Sou Programadora apaixonada por Tecnologia, Desenvolvimento Contínuo, Web Design e Criatividade.
+- 👩‍💻 Sou Desenvolvedora apaixonada por Tecnologia, Front-end, Desenvolvimento Contínuo, Criatividade, e Explorando o back-end.
 - 👩‍💼 Analista de Engenharia de Software Jr.
 - 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação.
 - 📚 Técnica em Informática para Internet.
