@@ -7,11 +7,11 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img align="right" alt="Menina" width="200px" src="https://media.giphy.com/media/eK1mmw4Etx28KZRq5h/giphy.gif"/>
 </div>
 
-- 👩‍💻 Sou Desenvolvedora apaixonada por Tecnologia, Front-end, Desenvolvimento Contínuo, Criatividade, e Explorando o back-end.
+- 👩‍💻 Sou Desenvolvedora apaixonada por Tecnologia, Front-end, Desenvolvimento Contínuo e Criatividade.
+- 📚 Estou em busca de projetos para colaborar e aprender, explorando o mundo do back-end, e praticando o front.
 - 👩‍💼 Analista de Engenharia de Software Jr.
-- 👩‍🎓 Estudante de Bacharelado em Sistemas de Informação.
-- 📚 Técnica em Informática para Internet.
-- 🤝 Estou em busca de projetos para colaborar e aprender.
+- 📚 Estudante de Bacharelado em Sistemas de Informação.
+- 👩‍🎓 Técnica em Informática para Internet.
 - 💬 Pergunte-me sobre: Front-end.
 - 🎮 Apaixonada por God of War e Shadow of the Colossus.
   
