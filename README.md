@@ -18,7 +18,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 [<img align="left" alt="Discord" width="200px" src="https://github.com/AnaProgramando/AnaProgramando/blob/81b4acb663397bcaa1db7b507ba7021fd0fc4f9e/comunidade.png"/>](https://discord.gg/C4PFK4W4HN)
 Entre na <**Comunidade Programando**> onde você poderá interagir, aprender, ensinar, compartilhar projetos, pedir ajuda para exercitar qualquer linguagem de programação, acompanhar vagas, falar sobre desenvolvimento, novidades em tecnologia e mais!
 
-Clique na imagem ou copie o link do convite na sua barra de pesquisa: https://discord.gg/C4PFK4W4HN
+Clique aqui ou copie o link do convite na sua barra de pesquisa: https://discord.gg/C4PFK4W4HN
 
 ## Habilidades
 <div style="display: inline_block">
@@ -27,6 +27,8 @@ Clique na imagem ou copie o link do convite na sua barra de pesquisa: https://di
   <img align="center" alt="Ana-Csharp" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ana-Js" height="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
+
+<br>
 
 <div>
   <a href="https://github.com/AnaProgramando">
