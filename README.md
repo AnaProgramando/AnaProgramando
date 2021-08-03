@@ -23,10 +23,10 @@ Clique aqui ou copie o link do convite na sua barra de pesquisa: https://discord
 ## Habilidades
 <div style="display: inline_block">
   <a href="https://github.com/AnaProgramando">
-  <img align="center" alt="Ana-HTML" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Csharp" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ana-Js" height="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Ana-HTML" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Ana-CSS" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Ana-Csharp" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="Ana-Js" height="40px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
 <br>
@@ -36,6 +36,8 @@ Clique aqui ou copie o link do convite na sua barra de pesquisa: https://discord
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AnaProgramando&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaProgramando&layout=compact&langs_count=16&theme=cobalt"/>
 </div>
+
+![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
     
 ## Contatos
 
