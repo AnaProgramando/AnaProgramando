@@ -11,7 +11,6 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 - 📚 Estudante de Bacharelado em Sistemas de Informação.
 - 👩‍🎓 Técnica em Informática para Internet.
 - 💬 Pergunte-me sobre: Front-end.
-- 🎮 Apaixonada por God of War e Shadow of the Colossus.
 
 ## Comunidade Programando
 
