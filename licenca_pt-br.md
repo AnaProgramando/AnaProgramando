@@ -1,4 +1,3 @@
-#### Licença em português: <kbd>[<img title="Portugues" alt="Portugues" src="https://img.icons8.com/color/48/000000/brazil.png" width="22">](licenca_pt-br.md)</kbd>
 #### License in english: <kbd>[<img title="English" alt="English" src="https://img.icons8.com/color/48/000000/usa.png" width="22">](license_en.md)</kbd>
 
 # Copyright © 2021 [AnaProgramando](https://github.com/AnaProgramando)
