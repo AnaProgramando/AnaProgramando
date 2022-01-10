@@ -12,15 +12,6 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
 - Técnica em Informática para Internet.
 - Pergunte-me sobre: Front-end.
 
-
-## 👩‍💻 Comunidade Programando 👨‍💻
-
-[<img align="left" alt="Discord" width="200px" src="https://github.com/AnaProgramando/AnaProgramando/blob/81b4acb663397bcaa1db7b507ba7021fd0fc4f9e/comunidade.png"/>](https://discord.gg/C4PFK4W4HN)
-Entre na <**Comunidade Programando**> onde você poderá interagir, aprender, ensinar, compartilhar projetos, pedir ajuda para exercitar qualquer linguagem de programação, acompanhar vagas, falar sobre desenvolvimento, novidades em tecnologia e mais!
-
-Clique aqui ou copie o link do convite na sua barra de pesquisa: https://discord.gg/C4PFK4W4HN
-
-
 ## 📊 Estatísticas
 
 <div align="center">
