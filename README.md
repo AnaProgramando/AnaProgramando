@@ -5,7 +5,7 @@ Seja muito bem vinda(o) ao meu Perfil! 😉
   <img align="right" alt="Git-Computador" width="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 </div>
 
-- Sou Desenvolvedora apaixonada por Tecnologia, Front-end, Desenvolvimento Contínuo e Criatividade.
+- Sou Desenvolvedora apaixonada por Tecnologia, Front-end, Back-end, Desenvolvimento Contínuo e Criatividade.
 - Estou em busca de projetos para colaborar e aprender, explorando o mundo do back-end, e praticando o front.
 - Analista de Engenharia de Software Jr.
 - Estudante de Bacharelado em Sistemas de Informação.
