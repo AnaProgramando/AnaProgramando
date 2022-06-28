@@ -1,8 +1,16 @@
 ## Olá, eu sou a Ana! 👋
+
 Seja muito bem vinda(o) ao meu Perfil! 😉
 
+
+## Títulos 👩‍💻
+
+<p align="center"> Front End Developer / Desenvolvedora Front End • Analista de Engenharia de TI no Itaú / IT Software Engineering Analyst • UX e UI em Formação • Bacharel em Sistemas de Informação • Técnica em Informática para Internet </p>
+
+## Sobre 📝
+
 <div>
-  <img align="right" alt="Git-Computador" width="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+  <img align="right" alt="Git-Computador" width="200px" height="200px" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 </div>
 
 - Sou Desenvolvedora apaixonada por Tecnologia, Front-end, Back-end, Desenvolvimento Contínuo e Criatividade.
