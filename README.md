@@ -35,7 +35,6 @@ class SobreMim extends Desenvolvedora {
   area    = 'Front-end';
   trabalho  = 'Itaú Unibanco';
   local = 'São Paulo, SP';
-  idiomas = 'Português - Fluente | Inglês - Intrmediário'
   pronomes = 'ela / dela';
 }
 ```
