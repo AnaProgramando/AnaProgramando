@@ -33,8 +33,8 @@ class AboutMe extends Developer {
   name     = 'Ana Beatriz Valentim';
   area    = 'Front-end';
   job  = 'Itaú Unibanco';
-  address = 'Brazil, São Paulo, SP';
-  languages = 'Portuguese - Fluent | English - Intermediate'
+  country = 'Brazil';
+  state = 'São Paulo';
   pronouns = 'she / her';
 }
 ```
