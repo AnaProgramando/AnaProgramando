@@ -1,6 +1,6 @@
 <table align="right">
  <tr><td><a href="https://github.com/AnaProgramando/AnaProgramando/blob/main/README-us.md">:us: Profile in English</a></td></tr>
- <tr><td><a href="https://github.com/AnaProgramando/AnaProgramando/blob/main/README-pt-br.md">:brazil: Perfil em Português</a></td></tr>
+ <tr><td><a href="https://github.com/AnaProgramando/AnaProgramando/blob/main/README.md">:brazil: Perfil em Português</a></td></tr>
 </table>
 
 ## Olá, eu sou a Ana! 👋
@@ -43,7 +43,7 @@ class SobreMim extends Desenvolvedora {
 <br>
 
 - 👩‍💻 Sou Desenvolvedora Front-end.
-- 👩‍💼 Analista de Engenharia de Software Jr no Itaú Unibanco.
+- 👩‍💼 Analista de Engenharia de Software no Itaú Unibanco.
 - 👩‍🎓 Bacharel em Sistemas de Informação.
 - 👩‍🔧 Técnica em Informática para Internet.
 - 👩‍🏫 Estudando para me tornar Desenvolvedora Full Stack (Frontend e Backend)
