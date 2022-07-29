@@ -1,6 +1,6 @@
 <table align="right">
  <tr><td><a href="https://github.com/AnaProgramando/AnaProgramando/blob/main/README-us.md">:us: Profile in English</a></td></tr>
- <tr><td><a href="https://github.com/AnaProgramando/AnaProgramando/blob/main/README-pt-br.md">:brazil: Perfil em Português</a></td></tr>
+ <tr><td><a href="https://github.com/AnaProgramando/AnaProgramando/blob/main/README.md">:brazil: Perfil em Português</a></td></tr>
 </table>
 
 ## Hello, I'm Ana! 👋
