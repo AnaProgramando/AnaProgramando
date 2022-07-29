@@ -48,6 +48,7 @@ class AboutMe extends Developer {
 - 👩‍🏫 Studying to become a Full Stack Developer (Frontend and Backend)
 - 👩‍🚀 Passionate about Technology, Development, Learning and Creativity.
 - 🤝 Available to collaborate on innovative and disruptive projects and ideas.
+- 🚀 I'm an Open Source adept.
 - ❤️ When I'm not coding, you can find me studying, reading, and spending time with my family.
 - 🤔 Ask me about: Frontend.
 
