@@ -122,10 +122,10 @@ Sinta-se à vontade para se conectar comigo em outras redes, e se precisar de aj
 
 <br>
 
-[<img align="right" alt="Voltar ao topo" width="80px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/AnaProgramando/AnaProgramando/blob/main/README.md#ol%C3%A1-eu-sou-a-ana-)
+[<img align="right" alt="Voltar ao topo" width="80px" src="https://img.shields.io/static/v1?label&message=Voltar+ao+topo&color=blueviolet&style=flat&logo"/>](https://github.com/AnaProgramando/AnaProgramando/blob/README.md#ol%C3%A1-eu-sou-a-ana-)
 
 <br>
  
  <div>
-  <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/README.md#ol%C3%A1-eu-sou-a-ana-"/>
+  <img align="center" alt="Pixel-Art" width="100%" src="https://github.com/AnaProgramando/AnaProgramando/blob/1abca3c99b5e79e7d3887d75d484642f2e574f26/aa.gif"/>
 </div>
