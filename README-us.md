@@ -22,8 +22,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=8833D7&width=600&height=60&lines=Welcome+to+my+Profile!+%F0%9F%98%89;I'm+Front+End+Developer%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Engineering+Analyst+at+Ita%C3%BA+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BC;UX+and+UI+in+Training+%F0%9F%91%A9%E2%80%8D%F0%9F%8E%A8;Bachelor+of+Information+Systems%F0%9F%91%A9%E2%80%8D%F0%9F%8E%93;Computer+Technician+for+Internet+%F0%9F%91%A9%E2%80%8D%F0%9F%94%A7)](https://git.io/typing-svg)
 </div>
 
-<details>
-  <summary>👩‍💻 Profile</summary>
+# 👩‍💻 Profile
 
 <br>
 
@@ -57,16 +56,13 @@ class AboutMe extends Developer {
 - 🤔 Ask me about: Frontend.
 
 <br>
-</details>
 
-<details>
-  <summary> ⌨️ Languages</summary>
+# ⌨️ Languages
 
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -74,22 +70,15 @@ class AboutMe extends Developer {
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-</details>
-
-<details>
-  <summary> 📚 Libraries & Framework </summary>
+# 📚 Libraries & Framework
 
 <br>
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-</details>
-
-<details>
-  <summary> 🛠️ Tools & Platforms </summary>
+# 🛠️ Tools & Platforms
 
 <br>
 
@@ -103,10 +92,8 @@ class AboutMe extends Developer {
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   
 <br>
-</details>
 
-<details>
-  <summary> 🔝 Most Used Languages </summary>
+# 🔝 Most Used Languages
 
 <br>
 
@@ -115,10 +102,8 @@ class AboutMe extends Developer {
 </p>
   
 <br>
-</details>
 
-<details>
-  <summary> 👩‍💼 Work Experience </summary>
+# 👩‍💼 Work Experience
 
 <br>
 
@@ -126,7 +111,7 @@ class AboutMe extends Developer {
 
 [**Front End Developer | IT Engineering Analyst**](https://www.linkedin.com/in/ana-beatriz-valentim) \
 Itaú Unibanco\
-March 2022 - Present · 8 months\
+March 2022 - Present · 1 year\
 `Front End`, `Front-End`, `Dev Front-End`, `Developer`\
 <br/>
 
@@ -165,10 +150,8 @@ June 2018 - June 2019 · 1 year 1 month\
 `Customer`, `Billing`, `Microsoft Dynamics CRM`
   
 <br>
-</details>
 
-<details>
-  <summary> 👩‍🎓 Educational background </summary>
+# 👩‍🎓 Educational background
 
 <br>
 
@@ -191,10 +174,8 @@ State Technical School Parque da Juventude\
 2014 - 2016 · 3 years
   
 <br>
-</details>
 
-<details>
-  <summary> ✉️ Contacts</summary>
+# ✉️ Contacts
 
 <br>
  
@@ -207,10 +188,8 @@ Feel free to connect with me on other social networks, and if you need help or h
 [<img align="left" alt="Codepen" src="https://img.shields.io/static/v1?label&message=/AnaProgramando&color=000000&style=flat&logo=codepen"/>](https://codepen.io/anaprogramando)
   
 <br><br>
-</details>
 
-<details>
-  <summary> 📊 My GitHub Stats </summary>
+# 📊 My GitHub Stats
 
 <br>
 
@@ -220,10 +199,8 @@ Feel free to connect with me on other social networks, and if you need help or h
 </p>
   
 <br>
-</details>
 
-<details>
-  <summary> 🏅 My GitHub Achievements </summary>
+# 🏅 My GitHub Achievements
 
 <br>
 
@@ -232,10 +209,8 @@ Feel free to connect with me on other social networks, and if you need help or h
 </a>
   
 <br>
-</details>
 
-<details>
-  <summary> ☕ Buy Me a Coffee </summary>
+# ☕ Buy Me a Coffee
 
 <br>
 
@@ -254,18 +229,14 @@ I count on your support 😉
 
   
 <br>
-</details>
 
-
-<details>
-  <summary> 🐍 Commit Snake</summary>
+# 🐍 Commit Snake
 
 <br>
 
 ![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
 
 <br>
-</details>
 
 <br>
 
