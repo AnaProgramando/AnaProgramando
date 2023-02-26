@@ -23,8 +23,7 @@
 
 </div>
 
-<details>
-  <summary>👩‍💻 Perfil</summary>
+# 👩‍💻 Perfil
 
 <br>
 
@@ -56,16 +55,13 @@ class SobreMim extends Desenvolvedora {
 - 🤔 Pergunte-me sobre: Front-end.
 
 <br>
-</details>
 
-<details>
-  <summary> ⌨️ Linguagens</summary>
+# ⌨️ Linguagens
 
 <br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -73,22 +69,15 @@ class SobreMim extends Desenvolvedora {
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-</details>
-
-<details>
-  <summary> 📚 Bibliotecas & Framework </summary>
+# 📚 Bibliotecas & Framework
 
 <br>
 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-</details>
-
-<details>
-  <summary> 🛠️ Ferramentas & Plataformas</summary>
+# 🛠️ Ferramentas & Plataformas
 
 <br>
 
@@ -102,10 +91,8 @@ class SobreMim extends Desenvolvedora {
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
   
 <br>
-</details>
 
-<details>
-  <summary> 🔝 Linguagens mais usadas</summary>
+# 🔝 Linguagens mais usadas
 
 <br>
 
@@ -114,10 +101,8 @@ class SobreMim extends Desenvolvedora {
 </p>
   
 <br>
-</details>
 
-<details>
-  <summary> 👩‍💼 Experiência de trabalho</summary>
+# 👩‍💼 Experiência de trabalho
 
 <br>
 
@@ -125,7 +110,7 @@ class SobreMim extends Desenvolvedora {
 
 [**Front End Developer | Analista de Engenharia de TI**](https://www.linkedin.com/in/ana-beatriz-valentim) \
 Itaú Unibanco\
-mar de 2022 - o momento · 8 meses\
+mar de 2022 - o momento · 1 ano \
 `Front End`, `Front-End`, `Dev Front-End`, `Developer`\
 <br/>
 
@@ -164,10 +149,8 @@ jun de 2018 - jun de 2019 · 1 ano 1 mês\
 Serviços: `Cliente`, `Atendimento`, `Billing`, `Microsoft Dynamics CRM`
   
 <br>
-</details>
 
-<details>
-  <summary> 👩‍🎓 Formação acadêmica</summary>
+# 👩‍🎓 Formação acadêmica
 
 <br>
 
@@ -190,10 +173,8 @@ Escola Técnica Estadual Parque da Juventude\
 2014 - 2016 · 3 anos
   
 <br>
-</details>
 
-<details>
-  <summary> ✉️ Contatos</summary>
+# ✉️ Contatos
 
 <br>
 
@@ -206,10 +187,8 @@ Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e suge
 [<img align="left" alt="Codepen" src="https://img.shields.io/static/v1?label&message=/AnaProgramando&color=000000&style=flat&logo=codepen"/>](https://codepen.io/anaprogramando)
   
 <br><br>
-</details>
 
-<details>
-  <summary> 📊 Estatísticas no GitHub </summary>
+# 📊 Estatísticas no GitHub
 
 <br>
 
@@ -219,10 +198,8 @@ Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e suge
 </p>
   
 <br>
-</details>
 
-<details>
-  <summary> 🏅 Conquistas no GitHub</summary>
+# 🏅 Conquistas no GitHub
 
 <br>
 
@@ -231,10 +208,8 @@ Conecte-se comigo em outras redes! Se precisar de ajuda ou tiver dúvidas e suge
 </a>
   
 <br>
-</details>
 
-<details>
-  <summary> ☕ Buy Me a Coffee </summary>
+# ☕ Buy Me a Coffee
 
 <br>
 
@@ -253,18 +228,13 @@ Conto com seu apoio 😉
 
   
 <br>
-</details>
-
-
-<details>
-  <summary> 🐍 Commit Snake</summary>
+# 🐍 Commit Snake
 
 <br>
 
 ![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
 
 <br>
-</details>
 
 <br>
 
