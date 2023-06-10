@@ -154,11 +154,11 @@ Serviços: `Cliente`, `Atendimento`, `Billing`, `Microsoft Dynamics CRM`
 
 <br>
 
-<img align="left" height="50px" width="50px" alt="Mackenzie" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/mackenzie.png"/>
+<img align="left" height="50px" width="50px" alt="FIAP" src="https://github.com/AnaProgramando/AnaProgramando/blob/ded7de222e6a9822f83e68bc272197d2b4e2427a/fiap.png"/>
 
-**Pós-Graduação em Gestão de Tecnologia da Informação**\
-Universidade Presbiteriana Mackenzie\
-out de 2022 - out de 2023
+**MBA em Engenharia de Software**\
+FIAP - Faculdade de Informática e Administração Paulista\
+Abril de 2023 - Maio de 2024
 
 <img align="left" height="50px" width="50px" alt="Estacio" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/estacio.png"/>
 
