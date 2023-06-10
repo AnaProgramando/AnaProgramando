@@ -155,11 +155,11 @@ June 2018 - June 2019 · 1 year 1 month\
 
 <br>
 
-<img align="left" height="50px" width="50px" alt="Mackenzie" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/mackenzie.png"/>
+<img align="left" height="50px" width="50px" alt="FIAP" src="https://github.com/AnaProgramando/AnaProgramando/blob/ded7de222e6a9822f83e68bc272197d2b4e2427a/fiap.png"/>
 
-**Postgraduate - Information Technology Management**\
-University Presbiteriana Mackenzie\
-October 2022 - October 2023
+**MBA in Software Engineering**\
+FIAP - University - Faculty of Informatics and Administration Paulista\
+April 2023 - May 2024
 
 <img align="left" height="50px" width="50px" alt="Estacio" src="https://github.com/AnaProgramando/AnaProgramando/blob/bb51d029022ab92f38db49c2be5d993e73f589b5/estacio.png"/>
 
